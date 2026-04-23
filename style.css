@@ -66,7 +66,7 @@
      line-height: 70px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .text> :nth-child(1) {
          font-size: 32px;
          line-height: 30px;
@@ -79,7 +79,7 @@
      line-height: 70px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .text>:nth-child(2) {
          font-size: 20px;
          line-height: 26px;
@@ -98,7 +98,7 @@
      line-height: 24px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .text>:nth-child(4) {
          font-size: 14px;
          line-height: 16px;
@@ -149,7 +149,7 @@
      margin-top: 10px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .bg-input {
          flex-direction: column;
      }
@@ -164,7 +164,7 @@
      margin-left: 145px;
  }
 
- @media (max-width: 768px) {
+ @media (max-width: 568px) {
      .tren {
          margin-left: 51px;
      }
@@ -178,7 +178,7 @@
      overflow: hidden;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .img-container {
          margin-left: 133px;
      }
@@ -226,7 +226,7 @@
      margin-left: 145px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .reason {
          margin-left: 60px;
          margin-bottom: 300px;
@@ -243,7 +243,7 @@
      gap: 10px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .reason-con {
          margin-left: 70px;
          flex-direction: column;
@@ -264,7 +264,7 @@
      transition: transform 0.3s ease;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .cont1 {
          margin-left: -14px;
          flex-direction: column;
@@ -286,7 +286,7 @@
      margin-bottom: 24px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .cont1-ele1 {
          margin-bottom: 30px;
          text-align: center;
@@ -305,7 +305,7 @@
      margin-bottom: 5px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
 
      .cont1-ele2,
      .cont1-ele3,
@@ -327,7 +327,7 @@
      margin-right: 20px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .cont2 {
          width: 45vw;
      }
@@ -349,7 +349,7 @@
      margin-left: 20px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
 
      .cont2-ele1,
      .cont2-ele2,
@@ -389,7 +389,7 @@
      transition: transform 0.3s ease;
  }
 
- @media (max-width: 768px) {
+ @media (max-width: 568px) {
      .cont3 {
          width: 43vw;
          margin-right: 24px;
@@ -438,7 +438,7 @@
      transition: transform 0.3s ease;
  }
 
- @media (max-width: 768px) {
+ @media (max-width: 568px) {
      .cont4 {
          width: 43vw;
          margin-right: 24px;
@@ -497,7 +497,7 @@
      margin-left: 145px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .faq {
          margin-left: 60px;
          margin-top: 330px;
@@ -519,7 +519,7 @@
      justify-content: space-between;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .faq1 {
          margin-left: 80px;
      }
@@ -552,7 +552,7 @@
      justify-content: space-between;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .faq2 {
          margin-left: 80px;
      }
@@ -578,7 +578,7 @@
      justify-content: space-between;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .faq3 {
          margin-left: 80px;
      }
@@ -604,7 +604,7 @@
      justify-content: space-between;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .faq4 {
          margin-left: 80px;
      }
@@ -630,7 +630,7 @@
      justify-content: space-between;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .faq5 {
          margin-left: 80px;
      }
@@ -656,7 +656,7 @@
      justify-content: space-between;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .faq6 {
          margin-left: 80px;
      }
@@ -702,7 +702,7 @@
      margin-bottom: 30px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .ready-start-btn {
          margin-top: 15px;
      }
@@ -721,7 +721,7 @@
      font-family: sans-serif;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .contact {
          margin-left: 80px;
      }
@@ -739,7 +739,7 @@
      font-size: 14px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .footer-main-cont {
          margin-left: -55px;
          gap: 25px;
@@ -789,7 +789,7 @@
      margin-left: 150px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .pakistan {
          margin-left: 80px;
      }
@@ -804,7 +804,7 @@
      margin-bottom: 70px;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .Not-bot {
          margin-left: 95px;
      }
@@ -820,7 +820,7 @@
      text-decoration: underline;
  }
 
- @media (max-width:768px) {
+ @media (max-width:568px) {
      .nabeel {
          margin-left: 80px;
 
