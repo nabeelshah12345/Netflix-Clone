@@ -266,9 +266,9 @@
 
  @media (max-width:568px) {
      .cont1 {
-         margin-left: -14px;
+         margin: auto;
          flex-direction: column;
-         width: 45vw;
+         width: 45%;
      }
  }
 
@@ -329,7 +329,7 @@
 
  @media (max-width:568px) {
      .cont2 {
-         width: 45vw;
+         width: 45%;
      }
  }
 
@@ -391,7 +391,7 @@
 
  @media (max-width: 568px) {
      .cont3 {
-         width: 43vw;
+         width: 45%;
          margin-right: 24px;
      }
 
@@ -440,7 +440,7 @@
 
  @media (max-width: 568px) {
      .cont4 {
-         width: 43vw;
+         width: 45%;
          margin-right: 24px;
      }
  }
@@ -522,6 +522,7 @@
  @media (max-width:568px) {
      .faq1 {
          margin-left: 80px;
+         width: 50%;
      }
  }
 
@@ -555,6 +556,7 @@
  @media (max-width:568px) {
      .faq2 {
          margin-left: 80px;
+         width: 50%;
      }
  }
 
@@ -581,6 +583,7 @@
  @media (max-width:568px) {
      .faq3 {
          margin-left: 80px;
+         width: 50%;
      }
  }
 
@@ -607,6 +610,7 @@
  @media (max-width:568px) {
      .faq4 {
          margin-left: 80px;
+         width: 50%;
      }
  }
 
@@ -633,6 +637,7 @@
  @media (max-width:568px) {
      .faq5 {
          margin-left: 80px;
+         width: 50%;
      }
  }
 
@@ -659,6 +664,7 @@
  @media (max-width:568px) {
      .faq6 {
          margin-left: 80px;
+         width: 50%;
      }
  }
 
