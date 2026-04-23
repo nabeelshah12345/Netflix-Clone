@@ -228,9 +228,8 @@
 
  @media (max-width:568px) {
      .reason {
-         margin-left: 60px;
-         margin-bottom: 300px;
-         padding: 20px;
+         margin: auto;
+         width: 20%;
      }
  }
 
